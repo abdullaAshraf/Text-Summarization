@@ -1,6 +1,12 @@
 # Text-Summarization
 Desktop Java application to summarize long articles using sentence scoring.
 ## Screen shots
+![alt text](https://imgur.com/dVrUe0e.png)
+![alt text](https://imgur.com/4IGeLeV.png)
+![alt text](https://imgur.com/vOFx2rd.png)
+![alt text](https://imgur.com/nAgbQ8z.png)
+![alt text](https://imgur.com/krwtdRn.png)
+![alt text](https://imgur.com/92Ib1wV.png)
 # Reflection
 This is a project made for a customer as a software tool to demonstrate concepts for a PhD degree.
 # Implementation
